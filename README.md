@@ -2,13 +2,13 @@
 configurion files for various dev env
  includes a gulp file using webpack
  </br>app
-   |__src
-   |  |__css
-   |  |__js
-   |  |__components
-   |  |__index.html
-   |  |__app.js
-   |__dist
-   |__gulpfile.js
-   |__webpack.config.js
-   |__webpack.config.min.js
+ </br>   |__src
+ </br>   |  |__css
+  </br>  |  |__js
+   </br> |  |__components
+    </br>|  |__index.html
+    </br>|  |__app.js
+    </br>|__dist
+    </br>|__gulpfile.js
+    </br>|__webpack.config.js
+    </br>|__webpack.config.min.js
