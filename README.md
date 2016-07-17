@@ -1,7 +1,7 @@
 # basic-config
 configurion files for various dev env
  includes a gulp file using webpack
- app
+ </br>app
    |__src
    |  |__css
    |  |__js
