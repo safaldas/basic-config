@@ -1,7 +1,7 @@
 var path = require("path");
 
 module.exports = {
-	entry : "./src/app.js",
+	entry : "app.js",
 	output : {
 		path:path.resolve('./dist'),
 		filename:"app.js",
@@ -20,8 +20,8 @@ module.exports = {
 		}
 		]
 	},
-	// resolve:{
-	// 	root:path.resolve('./src'),
-	// 	extensions:['.jsx','.js']
-	//}
+	resolve:{
+		root:path.resolve('./src'),
+	 	extensions:['.jsx','.js']
+	}
 }
