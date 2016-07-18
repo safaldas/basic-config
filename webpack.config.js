@@ -24,4 +24,4 @@ module.exports = {
 		root:path.resolve('./src'),
 	 	extensions:['.jsx','.js']
 	}
-}
+} 
